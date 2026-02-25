@@ -1,0 +1,8 @@
+# Linting standard required by the project
+flake8>=6.0.0
+
+# Static type checker required by the project
+mypy>=1.0.0
+
+# Tool to build your reusable mazegen module (.whl and .tar.gz)
+build>=1.0.0

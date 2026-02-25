@@ -1,0 +1,16 @@
+# Maze Configuration File
+# This file defines parameters for maze generation
+
+# Maze dimensions
+WIDTH=20
+HEIGHT=15
+
+# Entry and Exit coordinates (x,y format)
+ENTRY=0,0
+EXIT=19,14
+
+# Output file for hexadecimal maze representation
+OUTPUT_FILE=maze.txt
+
+# Generate perfect maze (True) or imperfect maze with loops (False)
+PERFECT=True
