@@ -9,7 +9,7 @@ description = "A reusable maze generation, solving, and exporting module."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    { name = "Your Name", email = "your.email@student.42.fr" }
+    { name = "Farok Bugri", email = "fbugri@student.42brussels.be" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -21,7 +21,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/a_maze_ing"
+Homepage = "https://github.com/fbugri-rgb/a_maze_ing"
 
 [tool.setuptools]
 packages = ["mazegen"]
